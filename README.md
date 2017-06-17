@@ -1,25 +1,19 @@
 # README
-# Update! Push!
+Udemy Test
+==========
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Demo Software
+-------------
 
-Things you may want to cover:
+### Welcome!
 
-* Ruby version
+> Lorem Ipsum etc.
+> Lorem Ipsum etc.
+> Lorem Ipsum etc.
+> Lorem Ipsum etc.
 
-* System dependencies
+* Dot
+* Point
+* List
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`puts “Hello World”`
